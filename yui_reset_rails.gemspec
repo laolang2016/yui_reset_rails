@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Jhimy Fernandes Villar"]
   s.email       = ["stjhimy@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/stjhimy/yui_reset_rails"
   s.summary     = %q{YUI css reset for rails 3 projects}
   s.description = %q{YUI css reset for rails 3 projects}
 
